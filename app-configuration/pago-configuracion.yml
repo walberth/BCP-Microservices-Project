@@ -1,0 +1,4 @@
+dbPago-cnx: server=localhost; database=db_venta; integrated security=true;TrustServerCertificate=True;
+log-mongo-server-db: mongodb://localhost:27017/dbLogs
+log-mongo-db-collection: logs-pagos
+url-base-servicio-banco: https://fakehost:1234
